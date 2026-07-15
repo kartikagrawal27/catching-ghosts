@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.CatchingGhosts" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:colorBackground">#0D131E</item>
+        <item name="colorPrimary">#7FD4C1</item>
+        <item name="colorSecondary">#EFB54A</item>
+    </style>
+</resources>
